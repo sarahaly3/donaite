@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/6e4d8a2c-9060-43df-83d9-d77517bec14a
 
 <div align="center">
-  *Connect with causes that matter to you*
+  Connect with causes that matter to you
 </div>
 
 ## 📋 Table of Contents
